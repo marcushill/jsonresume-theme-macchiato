@@ -1,5 +1,7 @@
 # Macchiato Theme! ☕️+🥛
 
+I have made *minor* edits to this over the upstream repo for my personal resume. Specifically, I have increased the side of the left panel and changed the accent color to meet my needs.
+
 Macchiato it's a [JSON Resume](https://jsonresume.org/) theme based on [Theme Boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) and [Caffeine Theme](https://github.com/kelyvin/jsonresume-theme-caffeine).
 
 ## Why?
